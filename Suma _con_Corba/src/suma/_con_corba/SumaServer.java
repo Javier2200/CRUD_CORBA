@@ -1,6 +1,3 @@
-
-package suma._con_corba;
-
 import sumaApp.*;
 //importar la interfaz idl
 import org.omg.CosNaming.*;
